@@ -6,6 +6,7 @@ form.addEventListener('submit',function()
 {
     event.preventDefault();
     alert("Signup successful")
+    window.location.href="./login.html"
     let userdetails ={
         email: email.value,
         password: pass.value
