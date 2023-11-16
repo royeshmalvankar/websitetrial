@@ -5,7 +5,7 @@ let pass =document.getElementById("sgpass")
 form.addEventListener('submit',function()
 {
     event.preventDefault();
-    // console.log(email.value , pass.value)
+    alert("Signup successful")
     let userdetails ={
         email: email.value,
         password: pass.value
