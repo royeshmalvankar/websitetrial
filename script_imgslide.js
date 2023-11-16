@@ -59,100 +59,100 @@ next.addEventListener('click',function()
     console.log(currim1,currim2,currim3)
 })
 
-const Obj=[
-    {
-        "image":"https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template/w_233,dpr_1,fl_progressive:steep,q_auto:low,f_auto,c_limit/images/growth/home-screen/1659096798036-9b40ee.png",
-        "title":"sofa cleaning",
-        "star":4.8,
-        "price":"₹738"
-    },
-    {
-        "image":"https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template/w_233,dpr_1,fl_progressive:steep,q_auto:low,f_auto,c_limit/images/growth/home-screen/1659102409372-8ca38a.png",
-        "title":"bathroom cleaning",
-        "star":4.76,
-        "price":"₹898"
-    },
-    {
-        "image":"https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template/w_233,dpr_1,fl_progressive:steep,q_auto:low,f_auto,c_limit/images/growth/home-screen/1659102409372-8ca38a.png",
-        "title":"bathroom cleaning",
-        "star":4.76,
-        "price":"₹898"
-    },
-    {
-        "image":"https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template/w_233,dpr_1,fl_progressive:steep,q_auto:low,f_auto,c_limit/images/growth/home-screen/1659102409372-8ca38a.png",
-        "title":"bathroom cleaning",
-        "star":4.76,
-        "price":"₹898"
-    },
-    {
-        "image":"https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template/w_233,dpr_1,fl_progressive:steep,q_auto:low,f_auto,c_limit/images/growth/home-screen/1659102409372-8ca38a.png",
-        "title":"bathroom cleaning",
-        "star":4.76,
-        "price":"₹898"
-    },
-    {
-        "image":"https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template/w_233,dpr_1,fl_progressive:steep,q_auto:low,f_auto,c_limit/images/growth/home-screen/1659102409372-8ca38a.png",
-        "title":"bathroom cleaning",
-        "star":4.76,
-        "price":"₹898"
-    },
-    {
-        "image":"https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template/w_233,dpr_1,fl_progressive:steep,q_auto:low,f_auto,c_limit/images/growth/home-screen/1659102409372-8ca38a.png",
-        "title":"bathroom cleaning",
-        "star":4.76,
-        "price":"₹898"
-    },
-    {
-        "image":"https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template/w_233,dpr_1,fl_progressive:steep,q_auto:low,f_auto,c_limit/images/growth/home-screen/1659102409372-8ca38a.png",
-        "title":"bathroom cleaning",
-        "star":4.76,
-        "price":"₹898"
-    },
-    {
-        "image":"https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template/w_233,dpr_1,fl_progressive:steep,q_auto:low,f_auto,c_limit/images/growth/home-screen/1659102409372-8ca38a.png",
-        "title":"bathroom cleaning",
-        "star":4.76,
-        "price":"₹898"
-    },
+// const Obj=[
+//     {
+//         "image":"https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template/w_233,dpr_1,fl_progressive:steep,q_auto:low,f_auto,c_limit/images/growth/home-screen/1659096798036-9b40ee.png",
+//         "title":"sofa cleaning",
+//         "star":4.8,
+//         "price":"₹738"
+//     },
+//     {
+//         "image":"https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template/w_233,dpr_1,fl_progressive:steep,q_auto:low,f_auto,c_limit/images/growth/home-screen/1659102409372-8ca38a.png",
+//         "title":"bathroom cleaning",
+//         "star":4.76,
+//         "price":"₹898"
+//     },
+//     {
+//         "image":"https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template/w_233,dpr_1,fl_progressive:steep,q_auto:low,f_auto,c_limit/images/growth/home-screen/1659102409372-8ca38a.png",
+//         "title":"bathroom cleaning",
+//         "star":4.76,
+//         "price":"₹898"
+//     },
+//     {
+//         "image":"https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template/w_233,dpr_1,fl_progressive:steep,q_auto:low,f_auto,c_limit/images/growth/home-screen/1659102409372-8ca38a.png",
+//         "title":"bathroom cleaning",
+//         "star":4.76,
+//         "price":"₹898"
+//     },
+//     {
+//         "image":"https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template/w_233,dpr_1,fl_progressive:steep,q_auto:low,f_auto,c_limit/images/growth/home-screen/1659102409372-8ca38a.png",
+//         "title":"bathroom cleaning",
+//         "star":4.76,
+//         "price":"₹898"
+//     },
+//     {
+//         "image":"https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template/w_233,dpr_1,fl_progressive:steep,q_auto:low,f_auto,c_limit/images/growth/home-screen/1659102409372-8ca38a.png",
+//         "title":"bathroom cleaning",
+//         "star":4.76,
+//         "price":"₹898"
+//     },
+//     {
+//         "image":"https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template/w_233,dpr_1,fl_progressive:steep,q_auto:low,f_auto,c_limit/images/growth/home-screen/1659102409372-8ca38a.png",
+//         "title":"bathroom cleaning",
+//         "star":4.76,
+//         "price":"₹898"
+//     },
+//     {
+//         "image":"https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template/w_233,dpr_1,fl_progressive:steep,q_auto:low,f_auto,c_limit/images/growth/home-screen/1659102409372-8ca38a.png",
+//         "title":"bathroom cleaning",
+//         "star":4.76,
+//         "price":"₹898"
+//     },
+//     {
+//         "image":"https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template/w_233,dpr_1,fl_progressive:steep,q_auto:low,f_auto,c_limit/images/growth/home-screen/1659102409372-8ca38a.png",
+//         "title":"bathroom cleaning",
+//         "star":4.76,
+//         "price":"₹898"
+//     },
 
-]
-// let bt=document.getElementById("b4")
-let d=document.getElementById("data");
-let pbtn=document.createElement("button")
-pbtn.innerText="<"
-d.append(pbtn)
-Obj.map((ele)=>
-{
+// ]
+// // let bt=document.getElementById("b4")
+// let d=document.getElementById("data");
+// let pbtn=document.createElement("button")
+// pbtn.innerText="<"
+// d.append(pbtn)
+// Obj.map((ele)=>
+// {
     
-    let card=document.createElement("div")
-    let img=document.createElement("img")
-    let tl=document.createElement("h3")
-    let str=document.createElement("p")
-    let pr=document.createElement("p")
+//     let card=document.createElement("div")
+//     let img=document.createElement("img")
+//     let tl=document.createElement("h3")
+//     let str=document.createElement("p")
+//     let pr=document.createElement("p")
     
-    img.setAttribute("src",ele.image)
-    tl.innerText=ele.title;
-    str.innerText=ele.star;
-    pr.innerText=ele.price;
+//     img.setAttribute("src",ele.image)
+//     tl.innerText=ele.title;
+//     str.innerText=ele.star;
+//     pr.innerText=ele.price;
     
    
-    card.append(img,tl,str,pr);
-    d.append(card);
+//     card.append(img,tl,str,pr);
+//     d.append(card);
     
-})
-let fbtn=document.createElement("button")
-fbtn.innerText=">"
-d.append(fbtn)
+// })
+// let fbtn=document.createElement("button")
+// fbtn.innerText=">"
+// d.append(fbtn)
 
 
-pbtn.addEventListener('click',function()
-{
-    console.log(obj[d[0]])
+// pbtn.addEventListener('click',function()
+// {
+//     console.log(d.card[1])
 
- })
+//  })
 
-fbtn.addEventListener('click',function()
-{
-    console.log(d[0])
+// fbtn.addEventListener('click',function()
+// {
+//     console.log(d[0])
 
-})
+// })
