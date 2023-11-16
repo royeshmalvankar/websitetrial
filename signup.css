@@ -1,0 +1,54 @@
+h1{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    font-style: italic
+}
+div{
+    text-align: center;
+}
+button{
+    height: 50px;
+    margin: 5px;
+    width: 110px;
+    border-radius: 7px;
+    border-width: 1px;
+    border-color:whitesmoke;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 15px;
+}
+input[type="submit"]
+{
+    height: 50px;
+    margin: 5px;
+    width: 110px;
+    border-radius: 7px;
+    border-width: 1px;
+    border-color:whitesmoke;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 15px;
+}
+.bts{
+    cursor: pointer;
+    font-size: 14px;
+    background-color: white;
+    border:1px solid  #ed0331;
+    padding: 10px;
+    color: #ed0331;;
+    text-align: center;
+    border-radius: 8px;
+    width: 200px ;
+    transition: 0.04s ;
+    }
+.bts:hover{
+    background-color: #ffe0eb;
+    color: #ed0331;
+    }
