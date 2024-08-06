@@ -18,6 +18,7 @@ Here is a quick glance to self-made clone of urbancomapany website
 
 
 Screenshots
+
 Home Page
 
 ![Screenshot 2023-11-16 193714](https://github.com/royeshmalvankar/websitetrial/assets/133229101/a4733f36-8d84-4101-be60-daa3887bed12)
