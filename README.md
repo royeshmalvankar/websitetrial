@@ -1,23 +1,26 @@
 # websitetrial
 
-Overview
+Overview:-
+
 This is a self-made clone of the UrbanCompany website. The project demonstrates various features including a functional login system, image sliders, and a user-friendly interface.
 
-Features
+Features:-
+
 Image Slider: A slider to navigate through images.
 Functional Login Button: Redirects to the login page.
 Signup Page: New users can sign up before logging in.
 Home Page Button: Redirects to the home page.
 
 
-Technologies Used
+Technologies Used:-
+
 Frontend: HTML, CSS, JavaScript
 Hosting: GitHub Pages
 
 Here is a quick glance to self-made clone of urbancomapany website
 
 
-Screenshots
+Screenshots:-
 
 Home Page
 
